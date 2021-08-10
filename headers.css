@@ -32,9 +32,21 @@
   outline: 0;
 }
 
-.sl-title {}
+.sl-title {
+  font-family: 'Trebuchet MS';
+  font-size: 3rem;
+}
 
 .sl-py-04 {
-  padding-top: .100rem;
-  padding-bottom: .100rem;
+  padding-top: .200rem;
+  padding-bottom: .01rem
+}
+
+.sl-vl {
+  position: fixed;
+  border: 30px solid;
+  height: 6000px;
+}
+.sl-vl-right {
+  right: 0%;
 }
