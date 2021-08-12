@@ -95,7 +95,7 @@
   display: inline-block;
   height: 226px;
 }
-.sl-a:hover {filter: blur(0px);}
+.sl-a:hover img {filter: blur(0px);}
 
 .sl-cover-images {
   width: 360px;
@@ -106,7 +106,7 @@
   filter: blur(2px);
   transition: .25s;
 }
-.sl-image--blur:hover {filter: blur(0px);}
+
 
 
 .sl-cover-text {
