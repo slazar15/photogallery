@@ -126,3 +126,18 @@
 .sl-cover-text-malu {
   margin-left: 145px
 }
+
+.sl-back-a {
+position: absolute;
+left: 0px;
+height: 92px;
+width: 180px;
+
+}
+
+.sl-back-icon {
+position: absolute;
+left: 10px;
+top:10px;
+height: 80%;
+}
