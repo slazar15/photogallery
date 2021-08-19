@@ -121,6 +121,8 @@ position: relative;
 top:91px;
 overflow-y: scroll;
 overflow-x: hidden;
-height: 630px;
+height: 95vh;
 scrollbar-width: thin;
+max-width: 95%;
 }
+.sl-cover-col {max-width: 447.467px;}
